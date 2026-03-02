@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Seugling! 👋
 
-Engenheiro de Computação em formação pela UTFPR, entusiasta de Cibersegurança, Machine Learning e Desenvolvimento de Software. Atualmente, foco em aplicar Inteligência Artificial para detecção de intrusões (IDS).
+Engenheiro de Computação em formação pela UTFPR, com foco em Cibersegurança, Machine Learning e Desenvolvimento Full Stack.
 
 ---
 
@@ -14,25 +14,31 @@ Engenheiro de Computação em formação pela UTFPR, entusiasta de Ciberseguran�
 
 ---
 
-### 🚀 Projetos em Destaque
-*(Deixe este espaço reservado para os repositórios que você vai me passar)*
+### 🚀 Projetos Acadêmicos (UTFPR)
+
+* **[Sistemas Distribuídos 2025-2](https://github.com/Felipecaf2323/Sistemas_Distribuidos_2025-2)** - Desenvolvimento de sistemas e protocolos distribuídos.
+* **[Certificadora 3: Banco de Ideias](https://github.com/Felipecaf2323/Certificadora3_MeninasDigitais_BancoDeIdeias)** - Projeto em parceria com o Meninas Digitais (projeto de extensão da UTFPR).
+* **[Os Mosqueteiros AS63C](https://github.com/Felipecaf2323/Os-Mosqueteiros-AS63C-2024.1)** - Projeto colaborativo de Engenharia de Software.
+* **[POO Java](https://github.com/Felipecaf2323/POO-Java)** - Fundamentos e práticas de Programação Orientada a Objetos.
+* **[Full Stack Acadêmico (Front-end)](https://github.com/Felipecaf2323/frontend)** | **[Full Stack Acadêmico (Back-end)](https://github.com/Felipecaf2323/Back-End)**
+
+---
+
+### 💡 Estudo Pessoal & Especializações
+
+* **[AI Financial Market Data](https://github.com/Felipecaf2323/AI-Financial-Market-Data)** - Inteligência Artificial aplicada a dados do mercado financeiro.
+* **[Cypress: Zero to Cloud](https://github.com/Felipecaf2323/cypress-from-zero-to-the-cloud)** - Automação de testes e qualidade de software.
+* **[Algoritmos e Estruturas de Dados](https://github.com/Felipecaf2323/Algoritmos-e-Estruturas-de-Dados)** - Repositório focado em lógica e performance.
+* **[NLW React Native (Delivery)](https://github.com/Felipecaf2323/NLW-react-native_pedido-de-comida)** - Aplicação mobile de pedidos de comida.
+* **[Toms Jazz School](https://github.com/Felipecaf2323/Toms_Jazz_School)** - Desenvolvimento de interface web moderna.
+* **[Alura Orgs](https://github.com/Felipecaf2323/Alura-orgs)** | **[AluraHub](https://github.com/Felipecaf2323/AluraHub)** | **[Alura Plus](https://github.com/Felipecaf2323/alura-plus)** - Projetos de trilhas de desenvolvimento Web.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, JavaScript, C++, SQL.
-- **Cybersecurity & ML:** IDS (Intrusion Detection Systems), Scikit-learn, Random Forest, SVM.
-- **Web & Mobile:** HTML/CSS, React, Node.js, Next.js, React Native.
+- **Backend:** Node.js, Java, Python (Cibersegurança e ML).
+- **Frontend & Mobile:** React, React Native, JavaScript, Next.js, TypeScript, HTML/CSS.
+- **Outros:** Cypress (Testes E2E), SQL, Node.js Godot Engine.
 
 ---
-
-### 📊 Estatísticas e Atividade
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipecaf2323&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecaf2323&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-#### 🐍 Snake of the Commits
-![snake gif](https://github.com/Felipecaf2323/Felipecaf2323/blob/output/github-contribution-grid-snake.gif)
