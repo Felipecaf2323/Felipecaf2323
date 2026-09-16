@@ -1,6 +1,6 @@
 # Olá, eu sou o Felipe Seugling! 👋
 
-Engenheiro de Computação em formação pela UTFPR, com foco em Cibersegurança, Machine Learning e Desenvolvimento Full Stack.
+Engenheiro de Computação em formação pela UTFPR, com foco em AI, Machine Learning, Sistemas Inteligentes, Cibersegurança e empreendedorismo.
 
 ---
 
